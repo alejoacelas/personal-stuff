@@ -22,7 +22,7 @@ Facts and wants that recommendations depend on. One claim per line; correct anyt
 
 ## Key things I own
 
-- Desk: IKEA TROTTEN sit/stand, 160 × 80 cm.
+- Desk: IKEA TROTTEN, fixed height (75 cm), 160 × 80 cm.
 - Office chair: Steelcase Gesture.
 - Bike.
 - Backpack (brand to check).

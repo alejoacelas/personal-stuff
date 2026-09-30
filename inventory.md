@@ -8,7 +8,7 @@ Location key: **UK** means bought or delivered in the UK and presumably at the L
 
 | Item | Exact reference | Bought | Location | Notes |
 |---|---|---|---|---|
-| Desk | [IKEA TROTTEN sit/stand desk, 160 × 80 cm, white/anthracite](https://www.ikea.com/gb/en/p/trotten-desk-sit-stand-white-anthracite-s59429599/) | 30 Aug 2026, IKEA (click-and-collect) | UK | Confirmed by Alejo. The first payment attempt failed. |
+| Desk | [IKEA TROTTEN desk, fixed height 75 cm, 160 × 80 cm, white/anthracite](https://www.ikea.com/gb/en/p/trotten-desk-white-anthracite-s39429562/) | 30 Aug 2026, IKEA (click-and-collect) | UK | Confirmed by Alejo. The first payment attempt failed. |
 | Office chair | [Steelcase Gesture](https://www.steelcase.com/products/office-chairs/gesture/) (secondhand) | 6 Sep 2026, [Reyooz](https://www.reyooz.com) (used office furniture shop, London) | UK | Delivery was scheduled for 16 Sep. Fabric and colour are not in the emails. |
 | Leg elevation wedge pillow | Generic "Leg Elevation Pillow Wedge Pillow for Sleeping" | 3 Sep 2026, Amazon UK | UK | Delivered 5 Sep. |
 | Bath towels | [Utopia Towels Premium Towel Set, 8 piece, 100% cotton, grey](https://www.amazon.co.uk/s?k=Utopia+Towels+Premium+Towel+Set+8+Piece+Grey) | 11 Sep 2026, Amazon UK | UK | |

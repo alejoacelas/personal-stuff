@@ -28,7 +28,7 @@ The mattress is the most comfortable floor surface you have: lay it down when yo
 
 ## 4. Desk
 
-- **Before buying a footrest,** crank the TROTTEN down until your elbows are at desk height with your feet flat. You need a footrest only if your feet then don't reach the floor.
+- **Footrest:** your TROTTEN is fixed at 75 cm, a few centimetres above a comfortable seated height for 172 cm, so raise the chair until your elbows are at desk height and rest your feet on a footrest about 8–10 cm high.
 - **Multiplug:** a surge-protected strip is enough. Your Anker 67 W charger already handles USB-C.
 - **Paper:** one ream of A4 80 gsm.
 
