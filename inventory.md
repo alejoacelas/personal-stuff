@@ -13,6 +13,7 @@ Location key: **UK** means bought or delivered in the UK and presumably at the L
 | Leg elevation wedge pillow | Generic "Leg Elevation Pillow Wedge Pillow for Sleeping" | 3 Sep 2026, Amazon UK | UK | Delivered 5 Sep. |
 | Bath towels | [Utopia Towels Premium Towel Set, 8 piece, 100% cotton, grey](https://www.amazon.co.uk/s?k=Utopia+Towels+Premium+Towel+Set+8+Piece+Grey) | 11 Sep 2026, Amazon UK | UK | |
 | Toilet brush | Ibergrif Silicone Toilet Brush & Holder | 11 Sep 2026, Amazon UK | UK | Delivered 12 Sep. |
+| Footrest | [Topmener semi-cylinder foot rest cushion, 40 × 20 × 10 cm, memory foam](https://www.amazon.co.uk/dp/B0BN7CVLSR) | 30 Sep 2026, Amazon UK | UK | Arriving 2 Oct. For the fixed-height 75 cm desk. |
 
 ## Kitchen
 
@@ -42,6 +43,7 @@ No purchase emails found. The plates and bowls are listed under Unconfirmed.
 | Adapters | [UGREEN Micro-USB to USB-C adapter, 2-pack](https://www.amazon.co.uk/dp/B07MYWT4GK) | 23 Jun 2026, Amazon UK | UK | |
 | Security key | [Yubico YubiKey 5C NFC](https://www.yubico.com/product/yubikey-5c-nfc/) | Jul 2026, Mercado Libre Colombia | UK (likely) | Delivered in Colombia around 14 Jul, during his visit there. |
 | Sunrise alarm lamp | [JUXLamp sunrise alarm clock / 12,000 lux light therapy lamp](https://www.amazon.com/dp/B07XXR1BLX) | 26 Jan 2025, Amazon US | Colombia (likely) | |
+| Extension lead | [Masterplug 4-socket, 2 m, surge-protected, individually switched](https://www.amazon.co.uk/dp/B07XJFH54B) | 30 Sep 2026, Amazon UK | UK | Arriving 2 Oct. |
 
 ## Clothing & shoes
 
@@ -72,6 +74,7 @@ No purchase emails found. The plates and bowls are listed under Unconfirmed.
 | Camping pillow | [TREKOLOGY inflatable camping pillow](https://www.amazon.com/dp/B08GQ824W3) | 22 Feb 2025, Amazon US | Unknown | |
 | Water bottle | Decathlon Quechua MH500 ecozen 0.8 L, blue | Jul 2024, Decathlon Colombia | Colombia (likely) | |
 | Microfibre towel | Decathlon Nabaiji size S (39 × 55 cm), blue | Jul 2024, Decathlon Colombia | Colombia (likely) | |
+| Hex key set | [Bahco BE-9770 metric long ball-end hex keys, 9 piece](https://www.amazon.co.uk/dp/B002SHPOZO) | 30 Sep 2026, Amazon UK | UK | Arriving 2 Oct. For the recessed bed and closet bolts. |
 
 ## Consumables bought
 
@@ -83,6 +86,8 @@ No purchase emails found. The plates and bowls are listed under Unconfirmed.
 - [Westcott rubber bands, 80 g tub](https://www.amazon.co.uk/dp/B0DFQ3MDDL) (May 2026)
 - Method Daily Kitchen Cleaner spray, clementine, 828 ml (Sep 2026)
 - Elbow Grease all-purpose degreaser spray, 500 ml (Sep 2026)
+- [nu: A4 paper, 500 sheets](https://www.amazon.co.uk/dp/B009TU4XBY) (Sep 2026)
+- [Marigold kitchen rubber gloves](https://www.amazon.co.uk/dp/B009YSEAU0), 2 pairs (Sep 2026)
 
 ## Unconfirmed
 
