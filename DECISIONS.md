@@ -1,13 +1,21 @@
-# Travel gear decisions
+# Stuff decisions
 
 ## Core decisions
 
-### Retain the collection’s actual state
+### Keep one place to read and edit
 
-- [Keep the gear list grounded in owned or used items](#keep-the-gear-list-grounded-in-owned-or-used-items).
+- [The buy Google Doc is the working copy](#the-buy-google-doc-is-the-working-copy).
+
+### Ground the inventory in evidence
+
+- [List only items with a purchase record or Alejo's own word](#list-only-items-with-a-purchase-record-or-alejos-own-word).
 
 ## Details
 
-### Keep the gear list grounded in owned or used items
+### The buy Google Doc is the working copy
 
-[gear.md](gear.md) is an unpopulated shortlist awaiting purchase-history input or manual entries. Preserve that status instead of filling it with generic product recommendations or claiming a completed inventory. [README.md](README.md) defines the retained purpose: useful things to own and travel with.
+The [buy doc](https://docs.google.com/document/d/1l_FPAw1nLLHY8pNF9j5sKrd40FY8qMfKKkHMHQr-KtU/edit) holds Alejo's notes (Tab 1), the buying guide and the inventory. Alejo edits the doc directly, so pull it before changing [guide.md](guide.md) or [inventory.md](inventory.md), and write only to the Guide and Inventory tabs. Leave Tab 1 to Alejo.
+
+### List only items with a purchase record or Alejo's own word
+
+[inventory.md](inventory.md) is built from purchase emails, [amazon-orders.md](amazon-orders.md) and items Alejo listed. Items he listed without a purchase record go under "Unconfirmed" rather than being given guessed models. Omit addresses, order numbers and payment details, because the repository is public.
