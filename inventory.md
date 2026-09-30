@@ -1,6 +1,6 @@
 # Inventory
 
-Built 2026-09-30 from [amazon-orders.md](amazon-orders.md) (Amazon UK/US to 28 June 2026), Gmail for alejoacelas@gmail.com (inbox, archive and trash, including Amazon UK orders after 28 June), and the list of items Alejo said he owns. Since September 2026 he has lived in a rented flat in central London (EC1); the Reyooz chair was delivered there and the IKEA order was billed to it.
+Built 2026-09-30 from [amazon-orders.md](https://github.com/alejoacelas/personal-stuff/blob/main/amazon-orders.md) (Amazon UK/US to 28 June 2026), Gmail for alejoacelas@gmail.com (inbox, archive and trash, including Amazon UK orders after 28 June), and the list of items Alejo said he owns. Since September 2026 he has lived in a rented flat in central London (EC1); the Reyooz chair was delivered there and the IKEA order was billed to it.
 
 Location key: **UK** means bought or delivered in the UK and presumably at the London flat. Nothing in email shows whether May–June 2026 purchases went with him on the July–August trip to Colombia and the US, so check those.
 
@@ -8,6 +8,7 @@ Location key: **UK** means bought or delivered in the UK and presumably at the L
 
 | Item | Exact reference | Bought | Location | Notes |
 |---|---|---|---|---|
+| Desk | [IKEA TROTTEN sit/stand desk, 160 × 80 cm, white/anthracite](https://www.ikea.com/gb/en/p/trotten-desk-sit-stand-white-anthracite-s59429599/) | 30 Aug 2026, IKEA (click-and-collect) | UK | Confirmed by Alejo. The first payment attempt failed. |
 | Office chair | [Steelcase Gesture](https://www.steelcase.com/products/office-chairs/gesture/) (secondhand) | 6 Sep 2026, [Reyooz](https://www.reyooz.com) (used office furniture shop, London) | UK | Delivery was scheduled for 16 Sep. Fabric and colour are not in the emails. |
 | Leg elevation wedge pillow | Generic "Leg Elevation Pillow Wedge Pillow for Sleeping" | 3 Sep 2026, Amazon UK | UK | Delivered 5 Sep. |
 | Bath towels | [Utopia Towels Premium Towel Set, 8 piece, 100% cotton, grey](https://www.amazon.co.uk/s?k=Utopia+Towels+Premium+Towel+Set+8+Piece+Grey) | 11 Sep 2026, Amazon UK | UK | |
@@ -87,8 +88,7 @@ No purchase emails found. The plates and bowls are listed under Unconfirmed.
 
 Items he said he owns, with no purchase email found:
 
-- **IKEA desk, 2 × 1 m.** The only IKEA email is an online order on 30 Aug 2026 for a [TROTTEN sit/stand desk, 160 × 80 cm, white/anthracite](https://www.ikea.com/gb/en/p/trotten-desk-sit-stand-white-anthracite-s59429599/) (article 594.295.99), for click-and-collect near Oval. IKEA said the payment "could not be processed", and no later confirmation exists. That desk is also 160 × 80 cm, not 2 × 1 m. Check which desk he actually has and where it is.
-- **Closet, mattress and bed frame.** No emails. They may have come with the flat or been bought in a store.
+- **Closet, mattress and bed frame.** They came with the rented flat.
 - **Bike.** No purchase email. The mounts, lights and lock bought in May–June suggest he had a bike in London by then.
 - **Main backpack.** No purchase email. The only backpack found is the 10 L Decathlon daypack above.
 - **4 small and 4 large flat plates, 4 medium bowls.** No emails.
