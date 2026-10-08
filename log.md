@@ -19,3 +19,8 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 - Footrest search redone per product-search.md (level 2): 4 Amazon phrasings, 5 product pages, Wirecutter, Argos. Best fit for "rounded, cushioned but harder": ErgoFoam Regular (B07C8836PN), about 10 cm high, high-density foam, flips into a rocker, 4.6 from 5,158 ratings with 5% at 1–3 stars. Wirecutter's top pick (ComfiLife, updated August 2026) costs over $100 on amazon.co.uk because it is imported. Recommended swapping it in for the Kensington SoleSaver; awaiting Alejo's yes.
 - Search-method lessons: review text is missing from pages fetched with fetch(), so read reviews by opening the page; a web-search summary claimed Wirecutter picked ErgoFoam, which the Wirecutter page did not support, so check summaries against the source.
 - Ordered 30 Sep 2026, arriving 2 Oct: Bahco hex keys, Masterplug lead, A4 paper, 2 pairs of Marigold gloves, and the Topmener semi-cylinder footrest (B0BN7CVLSR) instead of the Kensington or ErgoFoam. Added to inventory.md.
+
+## 2026-10-08
+
+- Alejo wants the brightest indoor lights he can get in London, to treat seasonal depression: "anything that's bright enough should do."
+- Search-method lesson: bright-light listings inflate lumens (one Amazon UK work light claimed 30,000 lm from 100 W, about three times what LEDs achieve). Estimate real output as roughly 90–120 lm per watt of measured power draw.
