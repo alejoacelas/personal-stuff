@@ -40,3 +40,4 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 - Hasn't yet checked whether his door frames have moulding.
 - Alejo asked for something simpler, "more 'a bag with straps'", expecting it to pack more volume into less space. Claude's answer: the thinnest packable daypacks (Sea to Summit Ultra-Sil, 72 g, tennis-ball size) already are a bag with straps; packed size depends on fabric thickness more than features. Simpler options (drawstring sacks, Notabag tote-backpack at 110 g) pack no smaller and bounce more when jogging.
 - Door frame: the door stop ("relieve") leaves a flat surface only 3 cm deep where a telescopic bar would press, against the 5 cm the Gornation Extend-It needs (Pullup & Dip telescopic feet are 6 cm wide). He liked the look of both telescopic bars.
+- Asked about pull-up bars he could drill into a wall that fold flat against it.
