@@ -34,3 +34,5 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 - Alejo wants to buy exercise gear: running shoes ("maybe I'd like to locate a good deal and go try them out and pick them up"), something to carry his phone and keys while cycling or running, and something for muscle-building calisthenics at home.
 - He had a pull-up bar in his previous place and found it "quite versatile"; he isn't sure what compares or which bar options exist.
 - "I like things that get the job done, and if something offers much more versatility I'm often willing to pay extra."
+- Alejo wants a bag small enough to carry in his backpack "or even pocket" that expands to more than 20 L and can be worn on his back, including while jogging.
+- Options offered: Decathlon Forclaz Travel 20L foldable (£12.99, 145 g, chest strap, roll-top), Matador Freerain24 (fist-sized, 187 g, chest strap, about $65), Matador Beast28 (framed with hip belt, 680 g, too big for a pocket), Sea to Summit Ultra-Sil 20L (72 g, no chest strap, 7 kg limit).
