@@ -76,4 +76,5 @@ Product page (`/dp/<ASIN>`) selectors: `#productTitle`, `.a-price .a-offscreen`,
 - **Full review pages** (`/product-reviews/<ASIN>`, including the critical-only filter) redirect to a password prompt. Don't sign in; use the reviews on the product page, or ask Alejo to open the page himself if a level 3 decision hinges on it.
 - **Bot detection:** stay under about 30 requests per item. If a response contains a CAPTCHA ("Enter the characters you see"), stop, never solve it, and tell Alejo.
 - **Privacy:** the page shows his delivery postcode; never copy it, order details or payment details into this public repository.
+- **Delivery details:** name, phone, email and address for checkout forms are in 1Password (personal account, vault `mac-agents`, Identity item "Delivery details — Alejo, London flat"). Read them with `op-agent`.
 - **Basket:** adding to the basket is allowed; never proceed to checkout. Log what you added in [log.md](log.md).
