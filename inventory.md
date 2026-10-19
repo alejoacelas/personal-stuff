@@ -17,7 +17,11 @@ Location key: **UK** means bought or delivered in the UK and presumably at the L
 
 ## Kitchen
 
-No purchase emails found. The plates and bowls are listed under Unconfirmed.
+| Item | Exact reference | Bought | Location | Notes |
+|---|---|---|---|---|
+| Sauté pan | [ProCook Elite Tri-Ply sauté pan with lid, uncoated, 28 cm / 4.2 L](https://www.procook.co.uk/product/elite-triply-saute-pan-lid-uncoated-28cm) | 19 Oct 2026, ProCook | UK | £85. Free standard delivery, 3–7 working days. 25-year guarantee. |
+
+The plates and bowls are listed under Unconfirmed.
 
 ## Bike
 
