@@ -78,3 +78,5 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 - IKEA and ProCook checkouts both reject his Colombian mobile number (+57); both require a UK number. IKEA delivery chosen: selected-day parcel, Sunday 25 Oct, 07:00–19:00, £5 (free with IKEA Family), total £75.
 - Picked both the Quechua MH100 and the Forclaz MT50 puffies.
 - Pants: jogs every morning in "some random leggins", carrying phone and keys in a small bag in his hand. Owns only two pairs of jeans, which he wears many times between washes. Unsure what to get, "at least for the exercising part"; thinks the pocket problem may be better solved by an add-on.
+- No UK number yet: the 9 Oct claude.ai chat "EE eSIM for London" only researched networks (EE came out best) and never reached a signup; no EE emails in Gmail. Alejo said to use a UK-looking number instead. Claude used 07700 900123, from Ofcom's range reserved for TV and film, so delivery texts go to nobody. Couriers therefore can't call or text him.
+- Both checkouts are at the payment step, waiting for Alejo: IKEA £75 (£5 delivery, Sunday 25 Oct, 07:00–19:00) and ProCook £85 (free standard delivery, 3–7 working days).
