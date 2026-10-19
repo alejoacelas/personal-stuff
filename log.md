@@ -70,3 +70,5 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 - Alejo picked SÄFFEROT; Claude added the 12 tog single (£20) to the IKEA bag, now £65 for 4 items. He wants fitted sheets in "different colors/designs, ideally dark tones".
 - Alejo thinks he has an IKEA stainless pan ("not sure") and eggs now stick in it.
 - Jacket priorities: "warm enough and waterproof. good if it can compact but less important than price."
+- Alejo chose 2 × ULLVIDE fitted sheet, dark blue, single (£10 each), and approved the ProCook Elite Tri-Ply sauté pan ("looks great").
+- Baskets filled 19 Oct 2026, not yet ordered. IKEA bag £85: 5 L pot, 2 L saucepan, 4 GLADELIG bowls, SÄFFEROT 12 tog single duvet, 2 ULLVIDE dark blue single fitted sheets. ProCook basket £85: Elite Tri-Ply sauté pan with lid, uncoated, 28 cm / 4.2 L (free standard delivery in 3–7 working days; next day available). Amazon basket: AOOSY chopsticks.
