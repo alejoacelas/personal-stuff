@@ -76,3 +76,5 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 - Alejo asked Claude to fill checkouts up to the payment step ("set everything (address and stuff) except for clicking pay and accept") and to remove the 5 L pot for now. Chopsticks stay in the Amazon basket until the next Amazon order.
 - Alejo asked to save his delivery details "where they're visible for future orders". Saved as a 1Password Identity item; location recorded in product-search.md. The email (his personal Gmail) was Claude's suggestion, not yet confirmed.
 - IKEA and ProCook checkouts both reject his Colombian mobile number (+57); both require a UK number. IKEA delivery chosen: selected-day parcel, Sunday 25 Oct, 07:00–19:00, £5 (free with IKEA Family), total £75.
+- Picked both the Quechua MH100 and the Forclaz MT50 puffies.
+- Pants: jogs every morning in "some random leggins", carrying phone and keys in a small bag in his hand. Owns only two pairs of jeans, which he wears many times between washes. Unsure what to get, "at least for the exercising part"; thinks the pocket problem may be better solved by an add-on.
