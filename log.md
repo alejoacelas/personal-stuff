@@ -47,3 +47,7 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 - Alejo chose a floor-to-ceiling tension pole to hold the light, then decided to skip the holder for now.
 - Carts filled for Alejo to pay (not yet ordered): Lightexpert checkout at the payment step for the Ledvion 240/190/140 W 6500K high bay (LV70009_1), £90.99 incl. £1 Royal Mail 1–3 day delivery. Amazon basket: VISSQH passive 1-10V dimmer knob (B0CHLSZ9NG), kenable rewireable 13 A plug with 3 A fuse (B08K4M2D2C), WAGO 221-412 lever connectors ×10 (B07W4RQ6R6), Tapo P110 energy-monitoring smart plug (B097YBXHTW), Stanley 34-piece multi-bit screwdriver (B00DY1Y22Y), Amazon Basics self-adjusting wire stripper (B07TS6KCXD); about $63 shown.
 - The Ledvion manual confirms separate dimming leads: DIM+ purple, DIM− pink (2 × 0.35 mm²), alongside brown/blue/green-yellow mains leads (3 × 1.0 mm²). It asks for at least 1 m between the lamp and the lit surface.
+
+## 2026-10-19
+
+- Alejo wants to buy, "and maybe other adjacent stuff": a duvet, a red pen "for naming pages", a warm light jacket, an installation pole for the light (he had skipped the holder on 14 Oct), bags to carry stuff, a bike repair, a wok, bowls for cooking, a pot to boil eggs and a pot to make soups. He plans to split the research across two or three parallel Claude chats.
