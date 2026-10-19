@@ -63,6 +63,7 @@ The plates and bowls are listed under Unconfirmed.
 | Light puffy jacket | [Forclaz MT50 0 °C synthetic padded jacket, black, size S](https://www.decathlon.co.uk/p/mens-trekking-synthetic-padded-jacket-mt50-0degc-black/138645/c1c1m8370601) | 19 Oct 2026, Decathlon UK | UK | £14.99. Arriving from 23 Oct. To wear under the Columbia rain jacket. |
 | Warmer puffy jacket | [Quechua MH100 padded jacket, terracotta brown, size S](https://www.decathlon.co.uk/p/men-s-hiking-padded-jacket-mh100-black/379976/c43m8996959) | 19 Oct 2026, Decathlon UK | UK | £19.99. Arriving from 23 Oct. Rated −6 to 9 °C. |
 | Warm running leggings | [Kiprun Run 100 Series, fleece-lined, smoked black, UK 30" / S, L33](https://www.decathlon.co.uk/p/men-s-running-leggings-black-run-100-series/346856/c382m8843568) × 2 | 19 Oct 2026, Decathlon UK | UK | £29.98 for both. Arriving from 23 Oct. For winter morning runs. L31 was out of stock. |
+| Running shoes | PUMA Velocity Nitro 4, yellow and white, second-hand (Decathlon Second Life) | Oct 2026, Decathlon UK | UK | About £44, per Alejo. Delivered by DPD on 16 Oct. Picked on 14 Oct for durability: the thickest outsole rubber on the shortlist; fits narrow. The listing is gone and the order isn't in his Decathlon account, so size and exact price are unconfirmed. |
 | Running leggings | [Kiprun Run 100, smoked black, UK 30" / S, L33](https://www.decathlon.co.uk/p/men-s-running-leggings-black-run-100/346951/c382m8817448) | 19 Oct 2026, Decathlon UK | UK | £9.99. Arriving from 23 Oct. Thin; has a phone pocket. |
 
 ## Bags
@@ -122,6 +123,5 @@ Items he said he owns, with no purchase email found:
 Purchases that may or may not still be in use:
 
 - **Wool Prince order.** It was shipped by FedEx on 16 Jun 2026 for delivery on 22 Jun, in one 0.6 lb parcel. Wool Prince mainly sells merino shirts, but the item is not named in any email.
-- **Decathlon parcel, 16 Oct 2026.** DPD delivered a Decathlon UK parcel between 12:02 and 13:02. No matching order appears in his Decathlon purchase history or Gmail, so the contents are unknown.
 - **Apple device, March 2025.** An Apple TV+ offer email mentions a "new device" bought by him or a family member. The model is not stated.
 - **Returned purchases.** The Coway Airmega AP-1512HH air purifier and the Gritin sleep mask from Amazon US (Feb 2026) were both returned.
