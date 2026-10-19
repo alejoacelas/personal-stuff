@@ -51,3 +51,8 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 ## 2026-10-19
 
 - Alejo wants to buy, "and maybe other adjacent stuff": a duvet, a red pen "for naming pages", a warm light jacket, an installation pole for the light (he had skipped the holder on 14 Oct), bags to carry stuff, a bike repair, a wok, bowls for cooking, a pot to boil eggs and a pot to make soups. He plans to split the research across two or three parallel Claude chats.
+- Kitchen focus: wok, bowls, a pot to boil eggs, a soup pot. "I've been cooking for a month already and I haven't lacked anything strictly necessary."
+- The cooktop is induction, and there is an oven.
+- Not sure a wok is right: "I just know I like sauteing vegetables and most recipes I try to do are one-pot or one-pan."
+- Owns 6 metal 0.5 L containers, used for freezer, fridge and baking; an IKEA kitchen knife; a set of cutlery; 4 bowls.
+- The 4 bowls "are the first thing to get dirty and they don't fit my lunch". He likes lunch in bowls because food spills less. Chopsticks are a maybe.
