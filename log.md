@@ -69,3 +69,4 @@ Unreviewed context from sessions, newest last. See [AGENTS.md](AGENTS.md) for ho
 - Alejo asked to add "the standard single bed duvet" to the IKEA bag. IKEA UK single options (19 Oct 2026): SÄFFEROT 7.5 tog £15 (4.7 from 838), SÄFFEROT 12 tog £20 (5.0 from 27), FJÄLLARNIKA 7.5 tog £40 or 4 + 7.5 tog pair £59 (4.4 from 3,789).
 - Alejo picked SÄFFEROT; Claude added the 12 tog single (£20) to the IKEA bag, now £65 for 4 items. He wants fitted sheets in "different colors/designs, ideally dark tones".
 - Alejo thinks he has an IKEA stainless pan ("not sure") and eggs now stick in it.
+- Jacket priorities: "warm enough and waterproof. good if it can compact but less important than price."
